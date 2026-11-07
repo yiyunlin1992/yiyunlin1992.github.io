@@ -4,7 +4,7 @@
    --------------------------------------------------------------------------- */
 
 :root {
-  --accent: #B31B1B;
+  --accent: #1F5F3A;
   --muted: #555555;
   --rule: #dddddd;
   --chip-bg: #f7f7f7;
@@ -13,7 +13,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --accent: #E7751D;
+    --accent: #7CC79A;
     --accent-2: #F2A25C;
     --muted: #9aa0aa;
     --rule: #33353f;
@@ -482,7 +482,7 @@ section h2#research {
 /* ===========================================================================
    Yiyun's variant: Weill Cornell palette (brand.weill.cornell.edu) and a
    different heading treatment. Structure is unchanged.
-   Cornell Red #B31B1B · Dark Orange #CF4520 · Bright Orange #E7751D
+   Cornell Red #1F5F3A · Dark Orange #CF4520 · Bright Orange #7CC79A
    =========================================================================== */
 
 /* thin red rule across the top of the page */
