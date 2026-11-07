@@ -37,10 +37,3 @@ main:
       methods that infer copy-number substructure from single-cell transcriptomes, co-profile
       genome and epigenome in the same cell, and map regulatory DNA&ndash;protein interactions
       at single-cell resolution, as well as to the HTAN and SMaHT consortia.
-
-  - id: metabolism
-    name: Earlier work &mdash; cancer metabolism and lipidomics
-    summary: |
-      During my pharmacy training at Sichuan University, I used mass-spectrometry and NMR
-      metabolomics to profile how lipid metabolism is rewired in cancer cells, in
-      cancer-associated fibroblasts, and in the brain after drug exposure.

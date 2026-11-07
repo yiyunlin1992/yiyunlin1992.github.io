@@ -309,7 +309,7 @@ main:
     venue: "<em>Theranostics</em>, 11(6):2966-2986"
     year: 2021
     venue_short: "Theranostics"
-    theme: metabolism
+    theme: other
     links:
       - label: Paper
         url: https://doi.org/10.7150/thno.48699
@@ -319,7 +319,7 @@ main:
     venue: "<em>Oncology Reports</em>, 46(5)"
     year: 2021
     venue_short: "Oncol Rep"
-    theme: metabolism
+    theme: other
     links:
       - label: Paper
         url: https://doi.org/10.3892/or.2021.8184
@@ -343,7 +343,7 @@ main:
     venue: "<em>Cell Death &amp; Disease</em>, 11(4):267"
     year: 2020
     venue_short: "Cell Death Dis"
-    theme: metabolism
+    theme: other
     selected: true
     links:
       - label: Paper
@@ -380,7 +380,7 @@ main:
     venue: "<em>Cancer Letters</em>, 454:179-190"
     year: 2019
     venue_short: "Cancer Lett"
-    theme: metabolism
+    theme: other
     links:
       - label: Paper
         url: https://doi.org/10.1016/j.canlet.2019.03.052
@@ -392,7 +392,7 @@ main:
     venue: "<em>Oncology Reports</em>, 40(2):1026-1034"
     year: 2018
     venue_short: "Oncol Rep"
-    theme: metabolism
+    theme: other
     links:
       - label: Paper
         url: https://doi.org/10.3892/or.2018.6510
@@ -404,7 +404,7 @@ main:
     venue: "<em>Oncology Reports</em>, 38(5):3044-3054"
     year: 2017
     venue_short: "Oncol Rep"
-    theme: metabolism
+    theme: other
     links:
       - label: Paper
         url: https://doi.org/10.3892/or.2017.5954
@@ -416,7 +416,7 @@ main:
     venue: "<em>Molecular and Cellular Neuroscience</em>, 85:29-44"
     year: 2017
     venue_short: "Mol Cell Neurosci"
-    theme: metabolism
+    theme: other
     selected: true
     note: "Selected as journal cover"
     links:
@@ -430,7 +430,7 @@ main:
     venue: "<em>Toxicology Letters</em>, 279:67-76"
     year: 2017
     venue_short: "Toxicol Lett"
-    theme: metabolism
+    theme: other
     links:
       - label: Paper
         url: https://doi.org/10.1016/j.toxlet.2017.07.214
