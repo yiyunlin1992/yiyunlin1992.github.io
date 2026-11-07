@@ -21,6 +21,7 @@
   <div class="cv-block">
     <h3 class="cv-heading">Awards</h3>
     <ul class="cv-list">
+      <li><span class="cv-when">2025</span><span class="cv-what">SMaHT Pilot and Feasibility Award<br><span class="cv-note">NIH Somatic Mosaicism across Human Tissues (SMaHT) Network</span></span></li>
       <li><span class="cv-when">2025</span><span class="cv-what">Outstanding Dissertation Award<br><span class="cv-note">MD Anderson UTHealth Graduate School of Biomedical Sciences</span></span></li>
       <li><span class="cv-when">2024</span><span class="cv-what">President&rsquo;s Research Scholarship<br><span class="cv-note">MD Anderson Cancer Center</span></span></li>
       <li><span class="cv-when">2023</span><span class="cv-what">Ray Meyn Scholarship for Cancer Research</span></li>
