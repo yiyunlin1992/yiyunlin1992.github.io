@@ -522,3 +522,29 @@ section h2 {
 
 .section-nav a:hover,
 a:hover { color: var(--accent-2); }
+
+/* ---- warm page background ------------------------------------------------
+   Pale tint of WCM Bright Orange. Body text #595959 = 6.2:1 contrast,
+   Cornell Red = 6.0:1 (both pass WCAG AA). Dark mode uses a warm near-black.
+   ------------------------------------------------------------------------- */
+:root {
+  --page-bg: #FCEFE3;
+  --rule: #EBCFB6;
+  --chip-bg: #F8E3D0;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page-bg: #2A211C;
+    --rule: #4A3A30;
+    --chip-bg: #3A2D25;
+  }
+}
+body { background-color: var(--page-bg); }
+
+/* ---- larger type ---------------------------------------------------------
+   Crimson Pro has a small x-height, so everything is scaled up ~20%.
+   Most sizes in this file are rem, so raising the root scales them all.
+   ------------------------------------------------------------------------- */
+html { font-size: 18px; }
+body { font-size: 18px; line-height: 1.6; }
+header h1 { font-size: 28px; }
