@@ -1,0 +1,25 @@
+# ---------------------------------------------------------------------------
+# News items, newest first. Only the first 4 are shown; the rest collapse
+# behind a "show more" toggle.
+# DRAFT: built from her publication dates -- edit or add items.
+# ---------------------------------------------------------------------------
+
+cover:
+  enabled: false
+
+main:
+
+  - date: "Jun 2026"
+    text: 'Single-cell mapping of regulatory DNA&ndash;protein interactions, with the Landau and Raimondi labs, is out in <a href="https://doi.org/10.1016/j.cell.2026.05.014" target="_blank" rel="noopener"><em>Cell</em></a>.'
+
+  - date: "May 2026"
+    text: 'Yiyun&rsquo;s co-first-author study of triple-negative breast cancer ecotypes during chemotherapy is published in <a href="https://doi.org/10.1038/s41586-026-10469-9" target="_blank" rel="noopener"><em>Nature</em></a>.'
+
+  - date: "2025"
+    text: "Yiyun received the Outstanding Dissertation Award from the MD Anderson UTHealth Graduate School of Biomedical Sciences."
+
+  - date: "Nov 2024"
+    text: 'Yiyun&rsquo;s first-author study showing that normal breast tissue harbours rare aneuploid epithelial cells is published in <a href="https://doi.org/10.1038/s41586-024-08129-x" target="_blank" rel="noopener"><em>Nature</em></a>.'
+
+  - date: "2024"
+    text: "Yiyun completed her PhD in Nicholas Navin&rsquo;s lab and joined the Landau Lab at Weill Cornell Medicine and the New York Genome Center as a postdoctoral associate."

@@ -1,0 +1,438 @@
+# ---------------------------------------------------------------------------
+# All publications live here. To add one, copy an existing block.
+#
+#   theme:   which research theme it belongs to (must match an id in
+#            _data/themes.yml). Use "other" to keep it out of the Research
+#            section but still list it under Publications.
+#   authors: HTML is allowed -- wrap your own name in <strong> tags.
+#   selected: true puts it under "Selected publications" (first author / contributed equally).
+#   links:   any label/url pairs you want shown as buttons.
+# Order in this file is the order shown on the page (newest first).
+# Source: her public NCBI My Bibliography (34 citations, Nov 2026).
+# ---------------------------------------------------------------------------
+
+main:
+
+  - title: "Single-cell mapping of regulatory DNA-protein interactions"
+    authors: "Chi WY, Yoon SH, Goksel E, Mekerishvili L, Pelt J, <strong>Lin Y</strong>, Prieto T, Zinno J, Ganesan S, Potenski C, Izzo F, Landau DA, Raimondi I"
+    venue: "<em>Cell</em>, 189(12):3801-3816"
+    year: 2026
+    venue_short: "Cell"
+    theme: sc-methods
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.cell.2026.05.014
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/42242226/
+
+  - title: "Ecotypes of triple-negative breast cancer in response to chemotherapy"
+    authors: "Yan Y<sup>*</sup>, <strong>Lin Y</strong><sup>*</sup>, Kumar T<sup>*</sup>, …, Navin N"
+    venue: "<em>Nature</em>, 654(8120):1088-1097"
+    year: 2026
+    venue_short: "Nature"
+    theme: breast-aneuploidy
+    selected: true
+    links:
+      - label: Paper
+        url: https://doi.org/10.1038/s41586-026-10469-9
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/42129561/
+
+  - title: "Genetic evidence supporting obesity as a risk factor for lung squamous cell carcinoma and the identification of MFAP1 as a shared genetic target"
+    authors: "Xu K, Liu T, Li Z, Wang M, Yang Z, Chen X, Wang Y, Chen Y, <strong>Lin Y</strong>, Wang Y, Zhong G, Zhai X"
+    venue: "<em>Discover Oncology</em>, 17(1)"
+    year: 2026
+    venue_short: "Discov Oncol"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1007/s12672-026-04793-9
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/41820721/
+
+  - title: "The Somatic Mosaicism across Human Tissues Network"
+    authors: "Coorens THH, Oh JW, Choi YA, et al., Somatic Mosaicism across Human Tissues Network"
+    venue: "<em>Nature</em>, 643(8070):47-59"
+    year: 2025
+    venue_short: "Nature"
+    theme: sc-methods
+    links:
+      - label: Paper
+        url: https://doi.org/10.1038/s41586-025-09096-7
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/40604182/
+
+  - title: "Current and future therapies for small cell lung carcinoma"
+    authors: "Zhai X, Zhang Z, Chen Y, Wu Y, Zhen C, Liu Y<sup>&dagger;</sup>, <strong>Lin Y</strong><sup>&dagger;</sup>, Chen C<sup>&dagger;</sup>"
+    venue: "<em>Journal of Hematology &amp; Oncology</em>, 18(1):37"
+    year: 2025
+    venue_short: "J Hematol Oncol"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1186/s13045-025-01690-6
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/40170056/
+
+  - title: "Efficacy and safety of nivolumab plus ipilimumab in patients with metastatic variant histology (non-clear cell) renal cell carcinoma"
+    authors: "Moussa MJ, Khandelwal J, Wilson NR, …, <strong>Lin Y</strong>, …, Tannir NM"
+    venue: "<em>Journal for ImmunoTherapy of Cancer</em>, 13(2)"
+    year: 2025
+    venue_short: "J Immunother Cancer"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1136/jitc-2024-010958
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/39939142/
+
+  - title: "A novel interplay between bacteria and metabolites in different early-stage lung cancer: an integrated microbiome and metabolome analysis"
+    authors: "Zhai X, Lin D, Shen Y, Zhai N, Yu F, Zhang J, <strong>Lin Y</strong>, Wang Y, Zhou Q, Zheng X"
+    venue: "<em>Frontiers in Oncology</em>, 14:1492571"
+    year: 2024
+    venue_short: "Front Oncol"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.3389/fonc.2024.1492571
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/39839794/
+
+  - title: "Normal breast tissues harbour rare populations of aneuploid epithelial cells"
+    authors: "<strong>Lin Y</strong><sup>*</sup>, Wang J<sup>*</sup>, Wang K, …, Navin N"
+    venue: "<em>Nature</em>, 636(8043):663-670"
+    year: 2024
+    venue_short: "Nature"
+    theme: breast-aneuploidy
+    selected: true
+    links:
+      - label: Paper
+        url: https://doi.org/10.1038/s41586-024-08129-x
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/39567687/
+
+  - title: "Dual targeting macrophages and microglia is a therapeutic vulnerability in models of PTENdeficient glioblastoma"
+    authors: "Liu Y, Wu J, Najem H, <strong>Lin Y</strong>, Pang L, Khan F, Zhou F, Ali H, Heimberger AB, Chen P"
+    venue: "<em>Journal of Clinical Investigation</em>, 134(22)"
+    year: 2024
+    venue_short: "J Clin Invest"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1172/JCI178628
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/39352749/
+
+  - title: "Single cell genome and epigenome co-profiling reveals hardwiring and plasticity in breast cancer"
+    authors: "Wang K, Yan Y, Elgamal H, Li J, Tang C, Bai S, Xiao Z, Sei E, <strong>Lin Y</strong>, Wang J, Montalvan J, Nagi C, Thompson AM, Navin N"
+    venue: "<em>bioRxiv</em> (preprint)"
+    year: 2024
+    venue_short: "bioRxiv"
+    theme: breast-aneuploidy
+    links:
+      - label: Paper
+        url: https://doi.org/10.1101/2024.09.06.611519
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/39314325/
+
+  - title: "Telomere dysfunction alters intestinal stem cell dynamics to promote cancer"
+    authors: "LaBella KA, Hsu WH, Li J, …, <strong>Lin Y</strong>, …, DePinho RA"
+    venue: "<em>Developmental Cell</em>, 59(11):1475-1486"
+    year: 2024
+    venue_short: "Dev Cell"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.devcel.2024.03.020
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/38574731/
+
+  - title: "Lactate dehydrogenase A regulates tumor-macrophage symbiosis to promote glioblastoma progression"
+    authors: "Khan F, <strong>Lin Y</strong>, Ali H, Pang L, Dunterman M, Hsu WH, Frenis K, Grant Rowe R, Wainwright DA, McCortney K, Billingham LK, Miska J, Horbinski C, Lesniak MS, Chen P"
+    venue: "<em>Nature Communications</em>, 15(1):1987"
+    year: 2024
+    venue_short: "Nat Commun"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1038/s41467-024-46193-z
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/38443336/
+
+  - title: "Senescent cancer-associated fibroblasts facilitate tumor associated neutrophil recruitment suppressing tumor immunity"
+    authors: "Lin D, Zhai X, Qi X, Zhou Q, Liu Y, <strong>Lin Y</strong>, Liu J"
+    venue: "<em>Journal of Translational Medicine</em>, 22(1):231"
+    year: 2024
+    venue_short: "J Transl Med"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1186/s12967-024-05017-w
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/38433192/
+
+  - title: "Peroxisome proliferator-activated receptors as therapeutic target for cancer"
+    authors: "Wang Y, Lei F, <strong>Lin Y</strong>, Han Y, Yang L, Tan H"
+    venue: "<em>Journal of Cellular and Molecular Medicine</em>, 28(5):e17931"
+    year: 2024
+    venue_short: "J Cell Mol Med"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1111/jcmm.17931
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/37700501/
+
+  - title: "Ferroptosis in cancer immunity and immunotherapy: Multifaceted interplay and clinical implications"
+    authors: "Zhai X<sup>*</sup>, <strong>Lin Y</strong><sup>*</sup>, Zhu L, Wang Y, Zhang J, Liu J, Li L, Lu X"
+    venue: "<em>Cytokine &amp; Growth Factor Reviews</em>, 75:101-109"
+    year: 2024
+    venue_short: "Cytokine Growth Factor Rev"
+    theme: other
+    selected: true
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.cytogfr.2023.08.004
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/37658030/
+
+  - title: "Oncogenic KRAS Drives Lipofibrogenesis to Promote Angiogenesis and Colon Cancer Progression"
+    authors: "Hsu WH, LaBella KA, <strong>Lin Y</strong>, …, DePinho RA"
+    venue: "<em>Cancer Discovery</em>, 13(12):2652-2673"
+    year: 2023
+    venue_short: "Cancer Discov"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1158/2159-8290.CD-22-1467
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/37768068/
+
+  - title: "Comparative Effectiveness Analysis of Treatment Strategies for Surgically Resectable Neuroendocrine Carcinoma of the Urinary Tract"
+    authors: "Alhalabi O, Wilson N, Xiao L, <strong>Lin Y</strong>, …, Siefker-Radtke AO"
+    venue: "<em>European Urology Oncology</em>, 6(6):611-620"
+    year: 2023
+    venue_short: "Eur Urol Oncol"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.euo.2023.09.004
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/37833193/
+
+  - title: "Adjuvant chemoradiotherapy vs chemotherapy for resectable biliary tract cancer: a propensity score matching analysis based on the SEER database"
+    authors: "Zhu Y, Liu X, <strong>Lin Y</strong>, Tang L, Yi X, Xu H, Yuan Y, Chen Y"
+    venue: "<em>European Journal of Medical Research</em>, 28(1):310"
+    year: 2023
+    venue_short: "Eur J Med Res"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1186/s40001-023-01299-w
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/37658421/
+
+  - title: "Gas6/AXL pathway: immunological landscape and therapeutic potential"
+    authors: "Zhai X, Pu D, Wang R, Zhang J, <strong>Lin Y</strong>, Wang Y, Zhai N, Peng X, Zhou Q, Li L"
+    venue: "<em>Frontiers in Oncology</em>, 13:1121130"
+    year: 2023
+    venue_short: "Front Oncol"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.3389/fonc.2023.1121130
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/37265798/
+
+  - title: "Case report: Complete pathological admission in N3 unresectable locally advanced lung adenocarcinoma with a novel INTS10-ALK and EML4-ALK fusion after neoadjuvant crizotinib"
+    authors: "Zhai X, Wang T, <strong>Lin Y</strong>, Zhang J, Wang Y, Wang W, Zhou Q, Zhu D"
+    venue: "<em>Frontiers in Oncology</em>, 13:1104910"
+    year: 2023
+    venue_short: "Front Oncol"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.3389/fonc.2023.1104910
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/37064118/
+
+  - title: "Circadian regulator CLOCK promotes tumor angiogenesis in glioblastoma"
+    authors: "Pang L, Dunterman M, Xuan W, Gonzalez A, <strong>Lin Y</strong>, Hsu WH, Khan F, Hagan RS, Muller WA, Heimberger AB, Chen P"
+    venue: "<em>Cell Reports</em>, 42(2):112127"
+    year: 2023
+    venue_short: "Cell Rep"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.celrep.2023.112127
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/36795563/
+
+  - title: "Integrative Clinical and Genomic Characterization of MTAP-deficient Metastatic Urothelial Cancer"
+    authors: "Alhalabi O, Zhu Y, Hamza A, …, <strong>Lin Y</strong>, …, Gao J"
+    venue: "<em>European Urology Oncology</em>, 6(2):228-232"
+    year: 2023
+    venue_short: "Eur Urol Oncol"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.euo.2021.10.006
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/34789422/
+
+  - title: "Identification of Immune Subtypes of Lung Squamous Cell Carcinoma by Integrative Genome-Scale Analysis"
+    authors: "Yin L, Zhang W, Pu D, Zhai X, <strong>Lin Y</strong>, Wu Q, Chang T, Hu J, Li Y, Zhou Q"
+    venue: "<em>Frontiers in Oncology</em>, 11:778549"
+    year: 2021
+    venue_short: "Front Oncol"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.3389/fonc.2021.778549
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/35186710/
+
+  - title: "The unique pancreatic stellate cell gene expression signatures are associated with the progression from acute to chronic pancreatitis"
+    authors: "Hu C, Yin L, Chen Z, Waldron RT, Lugea A, <strong>Lin Y</strong>, Zhai X, Wen L, Han YP, Pandol SJ, Deng L, Xia Q"
+    venue: "<em>Computational and Structural Biotechnology Journal</em>, 19:6375-6385"
+    year: 2021
+    venue_short: "Comput Struct Biotechnol J"
+    theme: other
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.csbj.2021.11.031
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/34938413/
+
+  - title: "Cytoplasmic SHMT2 drives the progression and metastasis of colorectal cancer by inhibiting β-catenin degradation"
+    authors: "Liu C<sup>*</sup>, Wang L<sup>*</sup>, Liu X<sup>*</sup>, Tan Y, Tao L, Xiao Y, Deng P, Wang H, Deng Q, <strong>Lin Y</strong>, et al."
+    venue: "<em>Theranostics</em>, 11(6):2966-2986"
+    year: 2021
+    venue_short: "Theranostics"
+    theme: metabolism
+    links:
+      - label: Paper
+        url: https://doi.org/10.7150/thno.48699
+
+  - title: "Lipidomic profiling reveals lipid regulation by a novel LSD1 inhibitor treatment"
+    authors: "Li Y, Qian X, <strong>Lin Y</strong>, Tao L, Zuo Z, Zhang H, Yang S, Cen X, Zhao Y"
+    venue: "<em>Oncology Reports</em>, 46(5)"
+    year: 2021
+    venue_short: "Oncol Rep"
+    theme: metabolism
+    links:
+      - label: Paper
+        url: https://doi.org/10.3892/or.2021.8184
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/34498714/
+
+  - title: "Delineating copy number and clonal substructure in human tumors from single-cell transcriptomes"
+    authors: "Gao R, Bai S, Henderson YC, <strong>Lin Y</strong>, …, Navin NE"
+    venue: "<em>Nature Biotechnology</em>, 39(5):599-608"
+    year: 2021
+    venue_short: "Nat Biotechnol"
+    theme: sc-methods
+    links:
+      - label: Paper
+        url: https://doi.org/10.1038/s41587-020-00795-2
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/33462507/
+
+  - title: "Reprogramming of lipid metabolism in cancer-associated fibroblasts potentiates migration of colorectal cancer cells"
+    authors: "Gong J<sup>*</sup>, <strong>Lin Y</strong><sup>*</sup>, Zhang H, Liu C, Cheng Z, Yang X, Zhang J, Xiao Y, Sang N, Qian X, Wang L, Cen X, Du X, Zhao Y"
+    venue: "<em>Cell Death &amp; Disease</em>, 11(4):267"
+    year: 2020
+    venue_short: "Cell Death Dis"
+    theme: metabolism
+    selected: true
+    links:
+      - label: Paper
+        url: https://doi.org/10.1038/s41419-020-2434-z
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/32327627/
+
+  - title: "The Human Tumor Atlas Network: Charting Tumor Transitions across Space and Time at Single-Cell Resolution"
+    authors: "Rozenblatt-Rosen O, Regev A, Oberdoerffer P, et al., Human Tumor Atlas Network"
+    venue: "<em>Cell</em>, 181(2):236-249"
+    year: 2020
+    venue_short: "Cell"
+    theme: sc-methods
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.cell.2020.03.053
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/32302568/
+
+  - title: "Advancing Cancer Research and Medicine with Single-Cell Genomics"
+    authors: "Lim B, <strong>Lin Y</strong>, Navin N"
+    venue: "<em>Cancer Cell</em>, 37(4):456-470"
+    year: 2020
+    venue_short: "Cancer Cell"
+    theme: sc-methods
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.ccell.2020.03.008
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/32289270/
+
+  - title: "ZY0511, a novel, potent and selective LSD1 inhibitor, exhibits anticancer activity against solid tumors via the DDIT4/mTOR pathway"
+    authors: "Li Y, Tao L, Zuo Z, Zhou Y, Qian X, <strong>Lin Y</strong>, Jie H, Liu C, Li Z, Zhang H, Zhang H, Cen X, Yang S, Zhao Y"
+    venue: "<em>Cancer Letters</em>, 454:179-190"
+    year: 2019
+    venue_short: "Cancer Lett"
+    theme: metabolism
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.canlet.2019.03.052
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/30978443/
+
+  - title: "LC-MS/MS metabolome analysis detects the changes in the lipid metabolic profiles of dMMR and pMMR cells"
+    authors: "Peng W, Tan S, Xu Y, Wang L, Qiu D, Cheng C, <strong>Lin Y</strong>, Liu C, Li Z, Li Y, Zhao Y, Li Q"
+    venue: "<em>Oncology Reports</em>, 40(2):1026-1034"
+    year: 2018
+    venue_short: "Oncol Rep"
+    theme: metabolism
+    links:
+      - label: Paper
+        url: https://doi.org/10.3892/or.2018.6510
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/29989648/
+
+  - title: "1H-NMR-based metabolic profiling of a colorectal cancer CT-26 lung metastasis model in mice"
+    authors: "Li Y, Wang C, Li D, Deng P, Shao X, Hu J, Liu C, Jie H, <strong>Lin Y</strong>, Li Z, Qian X, Zhang H, Zhao Y"
+    venue: "<em>Oncology Reports</em>, 38(5):3044-3054"
+    year: 2017
+    venue_short: "Oncol Rep"
+    theme: metabolism
+    links:
+      - label: Paper
+        url: https://doi.org/10.3892/or.2017.5954
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/28901465/
+
+  - title: "Cocaine modifies brain lipidome in mice"
+    authors: "<strong>Lin Y</strong>, Gu H, Jiang L, Xu W, Liu C, Li Y, Qian X, Li D, Li Z, Hu J, Zhang H, Guo W, Zhao Y, Cen X"
+    venue: "<em>Molecular and Cellular Neuroscience</em>, 85:29-44"
+    year: 2017
+    venue_short: "Mol Cell Neurosci"
+    theme: metabolism
+    selected: true
+    note: "Selected as journal cover"
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.mcn.2017.08.004
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/28830718/
+
+  - title: "Remodeling of brain lipidome in methamphetamine-sensitized mice"
+    authors: "Jiang L, Gu H, <strong>Lin Y</strong>, Xu W, Zhu R, Kong J, Luo L, Long H, Liu B, Chen B, Zhao Y, Cen X"
+    venue: "<em>Toxicology Letters</em>, 279:67-76"
+    year: 2017
+    venue_short: "Toxicol Lett"
+    theme: metabolism
+    links:
+      - label: Paper
+        url: https://doi.org/10.1016/j.toxlet.2017.07.214
+      - label: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/28689763/

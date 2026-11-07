@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------------
+# Research themes, in the order they appear on the page.
+#
+#   id:      must match the "theme" field of entries in publications.yml
+#   name:    heading text
+#   summary: one short paragraph -- what the question is and why it matters
+# Papers are pulled in automatically from publications.yml.
+#
+# Drafted from her CV and publication list -- Yiyun should edit the wording.
+# ---------------------------------------------------------------------------
+
+main:
+
+  - id: current
+    name: Lineage and clonal evolution in normal and premalignant tissues
+    summary: |
+      In the Landau Lab, I am building high-throughput single-cell assays that pair whole-genome
+      sequencing with the transcriptome and chromatin accessibility of the same cell. With them,
+      I am asking how epithelial cell lineage shapes the evolutionary paths of somatic mutations
+      in normal mammary tissue, and which genetic and epigenetic changes push pancreatic
+      intraepithelial neoplasia toward pancreatic cancer.
+
+  - id: breast-aneuploidy
+    name: Aneuploidy and clonal evolution in normal and cancerous breast tissue
+    summary: |
+      Copy-number changes are a hallmark of breast cancer, but when do they first appear?
+      Using single-cell DNA and RNA sequencing, we found that normal breast tissue from
+      healthy women already harbours rare aneuploid epithelial cells carrying cancer-like
+      copy-number gains and losses. Extending these approaches to triple-negative breast
+      cancer, we traced how tumor and microenvironment cell states respond to chemotherapy.
+
+  - id: sc-methods
+    name: Single-cell multi-omic technologies
+    summary: |
+      Reading a single cell's genome alongside its transcriptome, epigenome or protein&ndash;DNA
+      interactions lets us connect genetic changes to cell state. I have contributed to
+      methods that infer copy-number substructure from single-cell transcriptomes, co-profile
+      genome and epigenome in the same cell, and map regulatory DNA&ndash;protein interactions
+      at single-cell resolution, as well as to the HTAN and SMaHT consortia.
+
+  - id: metabolism
+    name: Earlier work &mdash; cancer metabolism and lipidomics
+    summary: |
+      During my pharmacy training at Sichuan University, I used mass-spectrometry and NMR
+      metabolomics to profile how lipid metabolism is rewired in cancer cells, in
+      cancer-associated fibroblasts, and in the brain after drug exposure.
