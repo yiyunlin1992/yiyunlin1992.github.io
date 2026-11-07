@@ -4,15 +4,17 @@
    --------------------------------------------------------------------------- */
 
 :root {
-  --accent: #0b5e58;
-  --muted: #6b7280;
-  --rule: #e5e7eb;
-  --chip-bg: #f3f4f6;
+  --accent: #B31B1B;
+  --muted: #555555;
+  --rule: #dddddd;
+  --chip-bg: #f7f7f7;
+  --accent-2: #CF4520;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --accent: #4fd1c5;
+    --accent: #E7751D;
+    --accent-2: #F2A25C;
     --muted: #9aa0aa;
     --rule: #33353f;
     --chip-bg: #2a2c37;
@@ -475,3 +477,48 @@ section h2#research {
   font-size: 1.05em;
 }
 .pub-subhead + .section-note { margin-top: 0; }
+
+
+/* ===========================================================================
+   Yiyun's variant: Weill Cornell palette (brand.weill.cornell.edu) and a
+   different heading treatment. Structure is unchanged.
+   Cornell Red #B31B1B · Dark Orange #CF4520 · Bright Orange #E7751D
+   =========================================================================== */
+
+/* thin red rule across the top of the page */
+body { border-top: 4px solid var(--accent); }
+
+/* name in red */
+header h1 { color: var(--accent); }
+
+/* section headings: small caps label with a red bar on the left, no underline */
+section h2 {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  border-bottom: none;
+  border-left: 4px solid var(--accent);
+  padding: 2px 0 2px 12px;
+}
+
+/* theme numbers as filled red circles */
+.theme-num {
+  min-width: 0;
+  width: 1.6em;
+  height: 1.6em;
+  line-height: 1.6em;
+  margin-right: 10px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  text-align: center;
+  font-size: 0.8em;
+  font-weight: 700;
+  vertical-align: 0.1em;
+}
+
+/* paper lists under each theme hang off an orange rule */
+.theme-papers { border-left-color: var(--accent-2); }
+
+.section-nav a:hover,
+a:hover { color: var(--accent-2); }
