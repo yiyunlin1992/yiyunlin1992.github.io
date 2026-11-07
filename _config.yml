@@ -24,7 +24,7 @@ twitter: https://x.com/YiyunLin_YL
 
 # Images
 avatar: ./assets/img/avatar.jpg
-favicon: ./favicon.ico
+favicon: ./favicon.ico?v=2
 
 # Theme options
 enable_footnote: true
