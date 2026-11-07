@@ -4,7 +4,7 @@
    --------------------------------------------------------------------------- */
 
 :root {
-  --accent: #1F5F3A;
+  --accent: #0D6E8F;
   --muted: #555555;
   --rule: #dddddd;
   --chip-bg: #f7f7f7;
@@ -13,7 +13,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --accent: #7CC79A;
+    --accent: #4FC3E8;
     --accent-2: #F2A25C;
     --muted: #9aa0aa;
     --rule: #33353f;
@@ -482,7 +482,7 @@ section h2#research {
 /* ===========================================================================
    Yiyun's variant: Weill Cornell palette (brand.weill.cornell.edu) and a
    different heading treatment. Structure is unchanged.
-   Cornell Red #1F5F3A · Dark Orange #CF4520 · Bright Orange #7CC79A
+   Cornell Red #0D6E8F · Dark Orange #CF4520 · Bright Orange #4FC3E8
    =========================================================================== */
 
 /* thin red rule across the top of the page */
@@ -529,15 +529,15 @@ a:hover { color: var(--accent-2); }
    Cornell Red = 6.0:1 (both pass WCAG AA). Dark mode uses a warm near-black.
    ------------------------------------------------------------------------- */
 :root {
-  --page-bg: #FCEFE3;
-  --rule: #EBCFB6;
-  --chip-bg: #F8E3D0;
+  --page-bg: #F2F2ED;
+  --rule: #DCDCD3;
+  --chip-bg: #E8E8E1;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --page-bg: #2A211C;
-    --rule: #4A3A30;
-    --chip-bg: #3A2D25;
+    --page-bg: #1E2326;
+    --rule: #3A4246;
+    --chip-bg: #2A3135;
   }
 }
 body { background-color: var(--page-bg); }
@@ -549,3 +549,17 @@ body { background-color: var(--page-bg); }
 html { font-size: 18px; }
 body { font-size: 18px; line-height: 1.6; }
 header h1 { font-size: 28px; }
+
+
+/* ---- blue palette ----------------------------------------------------------
+   Background #F2F2ED, brand blue #118AB2.
+   #118AB2 is 3.5:1 on this background: used for bold shapes (bars, circles,
+   icons, top stripe). Text links/headings use the deeper #0D6E8F (5.1:1).
+   ------------------------------------------------------------------------- */
+:root { --brand: #118AB2; --accent-2: #0A5670; }
+@media (prefers-color-scheme: dark) { :root { --brand: #4FC3E8; --accent-2: #8AD8F2; } }
+body { border-top-color: var(--brand); }
+section h2 { border-left-color: var(--brand); }
+.theme-num { background: var(--brand); }
+.theme-papers { border-left-color: var(--brand); }
+.social-icons a { color: var(--brand) !important; }
